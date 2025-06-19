@@ -2,6 +2,8 @@
 
 This simple tool helps estimate road tax for vehicles registered in Karnataka, India. Just input vehicle cost, age, fuel type, and district—get instant tax calculations with breakdowns based on Karnataka RTO rules.
 
+[Deployment](https://huggingface.co/spaces/rivapereira123/karnataka-vehicle-road-tax-estimator/tree/main)
+
 ---
 
 ## 🔧 Features
